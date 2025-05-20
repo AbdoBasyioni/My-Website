@@ -62,7 +62,7 @@ a:hover {
   position: relative;
 }
 #home h1 {
-  font-size: 3.5rem;
+  font-size: 2.8rem;
   font-weight: bold;
   animation: fadeIn 2s ease-in-out;
   text-shadow: 2px 2px 8px rgba(0,0,0,0.2);
@@ -322,7 +322,7 @@ footer {
 .social-icons a {
   color: #0d6efd;
   margin: 0 8px;
-  font-size: 1.4rem;
+  font-size: 1rem;
   transition: color 0.3s ease;
 }
 .social-icons a:hover {
